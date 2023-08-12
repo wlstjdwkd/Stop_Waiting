@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    include: real-db
+  session:
+    store-type: jdbc
