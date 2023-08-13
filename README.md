@@ -101,8 +101,45 @@
 
 <br>
 
+## 인터페이스
+ - 웨이팅 진행 현황 조회(지도)
 
+    ![img.png](images/img.png)
 
+ - 웨이팅 시간 선택
+
+    ![img_1.png](images/img_1.png)
+ - 웨이팅 등록
+
+    ![img_2.png](images/img_2.png)
+
+ - 장소 설정
+
+    ![img_3.png](images/img_3.png)
+
+ - 장소 세부 설정(웨이팅 종류 설정)
+
+    ![img_4.png](images/img_4.png)
+
+ - 장소 세부 설정(장소 시간 설정)
+
+    ![img_5.png](images/img_5.png)
+
+ - 승인 대기중인 웨이팅
+
+    ![img_6.png](images/img_6.png)
+
+ - 대기중인 웨이팅 목록 - 웨어러블 디바이스
+
+    ![img_7.png](images/img_7.png)
+
+ - 웨이팅 세부 확인 - 웨어러블 디바이스
+
+    ![img_8.png](images/img_8.png)
+
+ - 지도 내 위치 확인 - 웨어러블 디바이스
+
+    ![img_9.png](images/img_9.png)
 ## 팀 소개
 * 방진성 : 스탑웨이팅 서버 개발, Wear 어플리케이션 개발
 * 이윤석 : 스탑웨이팅 메인 어플리케이션 개발
