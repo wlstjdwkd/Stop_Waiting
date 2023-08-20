@@ -101,6 +101,9 @@
 
 <br>
 
+## ERD Diagram
+![img.png](images/ERD.png)
+
 ## 인터페이스
  - 웨이팅 진행 현황 조회(지도)
 
