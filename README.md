@@ -96,7 +96,7 @@
 </table>
 
 ## 🧱아키텍처
-![img.png](images/img0.png)
+![](images/img_0.png)
 
 ## ERD
 ![img.png](images/ERD.png)
